@@ -1,0 +1,12 @@
+{
+  "name": "johnrenzgamis",
+  "version": "1.0.0",
+  "description": "Thank You Sir For being a good teacher. di ko nahimo an best ko due to some serious personal problems and difficulties",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "johnrenz",
+  "license": "ISC"
+}
